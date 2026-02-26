@@ -2,7 +2,7 @@
 
 I'm Guru Kiran KM, a passionate developer from India 🇮🇳  
 
-I love building cool projects and learning new technologies.
+I love building real-world projects and learning new technologies.
 
 ---
 
