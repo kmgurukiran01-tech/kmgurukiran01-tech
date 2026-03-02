@@ -7,17 +7,16 @@ I love building real-world projects and learning new technologies.
 ---
 
 ## 🚀 Tech Stack
-- Python
-- React
+- MERN stack
 - Machine Learning
 - Data Science
 
 ---
 
 ## 📌 Projects
-🔹 Project 1 – Short description  
-🔹 Project 2 – Short description  
-🔹 Project 3 – Short description  
+🔹 Data science – soon------ 
+🔹 MERN – soon------  
+🔹 AI/ML – soon------ 
 
 ---
 
