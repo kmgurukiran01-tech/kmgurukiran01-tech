@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Guru Kiran KM, a passionate developer from India 🇮🇳  
+I'm Guru Kiran KM, a passionate developer from India
 
 I love building real-world projects and learning new technologies.
 
