@@ -1,73 +1,76 @@
 # 👋 Hi, I'm Gurukiran KM
 
-Welcome to my GitHub profile! I'm a passionate aspiring Data Scientist and AI Engineer, focused on building real-world projects using data, machine learning, and Python.
+I'm an aspiring **ML Engineer and Backend Developer** focused on building and deploying machine learning solutions through reliable backend systems.
 
----
+I work with **Python, Machine Learning, REST APIs, FastAPI, Node.js, and databases**, and I'm currently strengthening my skills in ML engineering and backend development.
 
 ## 🚀 About Me
 
-🎓 Student focused on Data Science and Artificial Intelligence
-💻 Strong interest in Data Analytics, Machine Learning, and Problem Solving
-📊 Skilled in working with data and extracting meaningful insights
-🤖 Exploring AI, Computer Vision, and real-world ML applications
-📈 Goal: Become a Data Scientist by this year and an AI Engineer by 2028
-🛠️ Love building projects that solve real-world problems
-
----
+🎓 B.Tech CSE (AI) Student  
+🤖 Focused on **Machine Learning and ML Engineering**  
+⚙️ Learning and building **Backend APIs and services**  
+🐍 Strong interest in **Python and AI/ML**  
+🗄️ Working with **PostgreSQL, MongoDB, MySQL, and SQLite**  
+🔗 Building applications using **REST APIs**  
+🧠 Exploring **Computer Vision, NLP, and AI applications**
 
 ## 🧠 Skills & Technologies
 
-### 📊 Data Analytics
+### 🤖 Machine Learning
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Supervised Learning
+- Machine Learning Fundamentals
 
-* Python (Pandas, NumPy)
-* Data Cleaning & Data Visualization
-* Excel & CSV Data Handling
-* MySQL
+### ⚙️ Backend Development
+- FastAPI
+- Node.js
+- Express.js
+- REST APIs
+- PostgreSQL
+- MongoDB
+- MySQL
+- SQLite
+- Mongoose
 
-### 🤖 Machine Learning (Learning Phase)
-
-* Scikit-learn
-* Model Building Basics
-* Supervised Learning Concepts
-
-### ⚙️ Programming & Tools
-
-* Python
-* Git & GitHub
-* Jupyter Notebook / PyCharm
-
----
+### 🛠️ Tools
+- Git & GitHub
+- Jupyter Notebook
+- PyCharm
+- VS Code
 
 ## 📌 Current Focus
 
-* Learning SQL and Database Integration
-* Building Data Analysis Projects
-* Exploring Machine Learning step-by-step
-* Working on real-world datasets
-
----
+- 🤖 Machine Learning & ML Engineering
+- ⚙️ Backend Development
+- 🔗 REST API Development
+- 🗄️ Database Integration
+- 🚀 Building ML-powered backend applications
+- 🧠 Improving problem-solving and DSA skills
 
 ## 📂 Projects
 
-* 🏠 Rent Management System (Python Project)
-* 📊 Data Analysis Projects (CSV-based insights)
-* 🔢 Python Practice Projects (Logic + Problem Solving)
+<!-- Projects will be added here -->
 
----
+## 🎯 Goals
 
-## 🎯 Future Goals
-
-* Build advanced Machine Learning projects
-* Work on AI-based applications (Computer Vision, NLP)
-* Contribute to real-world data-driven solutions
-
----
-## 📊 GitHub Stats
-![My GitHub stats](https://github.com/kmgurukiran01-tech)
+- Become a strong **ML Engineer**
+- Build production-ready **ML applications**
+- Develop strong **Backend Engineering** skills
+- Build and deploy **AI-powered applications**
+- Contribute to **open-source projects**
 
 ## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/guru-kiran-km-6256b2375
-- Portfolio:----
 
-⭐ Thanks for visiting my profile! If you like my work, consider giving a star to my repositories.
+🔗 **LinkedIn:** www.linkedin.com/in/guru-kiran-km-6256b2375  
+🌐 **Portfolio:** Coming Soon
+
+---
+
+⭐ Thanks for visiting my profile!
 
