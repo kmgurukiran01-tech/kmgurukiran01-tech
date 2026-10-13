@@ -4,8 +4,6 @@
 
 I'm on a journey of learning, building, and growing through technology. 
 
-### 🎯 My Ambition
-
 To become a skilled engineer who can turn ideas into meaningful, real-world solutions.
 I'm focused on growing step by step, building projects, and Big vision,
 small steps — learning, building, and becoming better every day.
